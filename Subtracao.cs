@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classe_sub
+namespace Classe_sub_Aula_10
 {
     class Subtracao
     {
@@ -36,5 +36,6 @@ namespace Classe_sub
         {
             return this.sub;
         }
+
     }
 }

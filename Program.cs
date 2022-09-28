@@ -4,16 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RecebeNome
+namespace Aula_7___3_
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string nome;
-            Console.WriteLine("Digite um nome: ");
-            nome = Console.ReadLine();
-            Console.WriteLine(nome);
+            Console.WriteLine("Um ótimo dia!");
             Console.ReadKey();
         }
     }
